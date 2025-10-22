@@ -26,6 +26,7 @@ Generate QR codes instantly for any text, link, or data — with size customizat
 ## 📸 Preview
 
 ![QR Code Generator Screenshot](screenshot.png)
+live view: https://amansin777.github.io/QR-Code-Generator/
 
 ---
 
@@ -33,4 +34,4 @@ Generate QR codes instantly for any text, link, or data — with size customizat
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/qr-code-generator.git
+   git clone https://github.com/yourusername/QR-Code-generator.git
